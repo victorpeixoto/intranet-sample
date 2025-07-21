@@ -1,0 +1,82 @@
+{
+	"data": {
+		"id": 6,
+        "documentId": "qpjgugyfo3g61v00096goimc",
+        "title": "A bug is becoming a meme on the internet",
+        "description": "How a bug on MySQL is becoming a meme on the internet",
+        "slug": "a-bug-is-becoming-a-meme-on-the-internet",
+        "createdAt": "2025-07-17T22:40:22.491Z",
+        "updatedAt": "2025-07-18T02:27:36.664Z",
+        "publishedAt": "2025-07-18T02:27:36.698Z",
+        "cover": {
+            "id": 7,
+            "documentId": "svffktv7j84wrqyhmsu5cmlc",
+            "name": "a-bug-is-becoming-a-meme-on-the-internet",
+            "alternativeText": "An image uploaded to Strapi called a-bug-is-becoming-a-meme-on-the-internet",
+            "caption": "a-bug-is-becoming-a-meme-on-the-internet",
+            "width": 3628,
+            "height": 2419,
+            "formats": {
+                "thumbnail": {
+                    "name": "thumbnail_a-bug-is-becoming-a-meme-on-the-internet",
+                    "hash": "thumbnail_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 234,
+                    "height": 156,
+                    "size": 6.73,
+                    "sizeInBytes": 6728,
+                    "url": "/uploads/thumbnail_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503.jpeg"
+                },
+                "medium": {
+                    "name": "medium_a-bug-is-becoming-a-meme-on-the-internet",
+                    "hash": "medium_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 500,
+                    "size": 33.59,
+                    "sizeInBytes": 33590,
+                    "url": "/uploads/medium_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503.jpeg"
+                },
+                "small": {
+                    "name": "small_a-bug-is-becoming-a-meme-on-the-internet",
+                    "hash": "small_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 333,
+                    "size": 19.25,
+                    "sizeInBytes": 19245,
+                    "url": "/uploads/small_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503.jpeg"
+                },
+                "large": {
+                    "name": "large_a-bug-is-becoming-a-meme-on-the-internet",
+                    "hash": "large_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 666,
+                    "size": 50.97,
+                    "sizeInBytes": 50972,
+                    "url": "/uploads/large_a_bug_is_becoming_a_meme_on_the_internet_9fe7965503.jpeg"
+                }
+            },
+            "hash": "a_bug_is_becoming_a_meme_on_the_internet_9fe7965503",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "size": 234.02,
+            "url": "/uploads/a_bug_is_becoming_a_meme_on_the_internet_9fe7965503.jpeg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-07-17T22:40:22.455Z",
+            "updatedAt": "2025-07-17T22:40:22.455Z",
+            "publishedAt": "2025-07-17T22:40:22.455Z"
+        },
+	}
+}
