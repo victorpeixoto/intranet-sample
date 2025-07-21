@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log
+
+# Build artifacts
+dist
+build
+*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode

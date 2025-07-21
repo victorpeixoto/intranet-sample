@@ -1,0 +1,27 @@
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      # Você precisará atualizar sua aplicação para usar estas variáveis de ambiente
+      # para se conectar ao banco de dados em vez do MemStorage.
+      - DATABASE_URL=postgres://user:password@db:5432/intranetdb
+      - PORT=5000
+      # Adicione outras variáveis de ambiente necessárias aqui
+      # - SESSION_SECRET=seu_segredo_de_sessao
+
+  db:
+    image: postgres:16-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=intranetdb
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
